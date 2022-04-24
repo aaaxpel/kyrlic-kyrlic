@@ -5,6 +5,10 @@
 
     <!-- Здесь можно отображение поменять через v-if -->
     <router-link to="/admin">Админская панель</router-link>
+
+    <router-link to="/profile">Профиль</router-link>
+    <router-link to="/profile">Профиль</router-link>
+    <router-link to="/profile">Профиль</router-link>
     <router-view />
   </div>
 </template>

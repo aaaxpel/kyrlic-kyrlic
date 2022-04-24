@@ -1,5 +1,4 @@
 <template>
-  <router-link to="/">Вернуться назад</router-link>
   <h1>Компонент с авторизацией</h1>
   <p>Текст какой-то</p>
   <form action="" method="post">
