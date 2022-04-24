@@ -1,7 +1,10 @@
 <template>
   <div class="home">
-    <h1>That's a home component</h1>
+    <h1>Домашняя страничка</h1>
     <router-link to="/auth">Авторизация</router-link>
+
+    <!-- Здесь можно отображение поменять через v-if -->
+    <router-link to="/admin">Админская панель</router-link>
     <router-view />
   </div>
 </template>
