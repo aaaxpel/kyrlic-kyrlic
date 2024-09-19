@@ -1,1 +1,1 @@
-# Незавершенный проект на Vue.js, Node.js и MySQL
+# Never finished project on Vue.js, Node.js и MySQL
